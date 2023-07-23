@@ -1,2 +1,2 @@
-# elo
-Python Elo Ranking
+# Elo
+Python Elo Ranking System
