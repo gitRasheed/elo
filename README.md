@@ -22,6 +22,7 @@ Records a match for the player against an opponent, specifying the outcome and u
 ```
 player.record_match("Bob", "Alice", 1520)
 ```
+
 Elo
 The Elo rating system.
 
